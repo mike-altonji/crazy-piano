@@ -41,7 +41,7 @@ Contributors
 ============
 * Michael Altonji
 
-Interested in collaborating? Email mikealtonji@gmail.com, or submit issues for features you'd like to see in the future!
+*Interested in collaborating? Email mikealtonji@gmail.com, or submit issues for features you'd like to see in the future!*
 
 License
 =======
