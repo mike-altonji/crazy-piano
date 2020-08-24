@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="crazy-piano",
-    version="0.0.1",
+    version="0.0.2",
     author="Michael Altonji",
     author_email="mikealtonji@gmail.com",
     description="A package for exploring the fundamentals of how we define music.",
@@ -17,6 +17,9 @@ setuptools.setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
+    ],
+    install_requires=[
+          'pandas',
     ],
     python_requires='>=3.6',
 )
