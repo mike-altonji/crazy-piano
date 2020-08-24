@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="crazy-piano",
-    version="0.0.2",
+    version="0.0.3",
     author="Michael Altonji",
     author_email="mikealtonji@gmail.com",
     description="A package for exploring the fundamentals of how we define music.",
